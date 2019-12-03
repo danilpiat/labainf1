@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\acutest.h(334,25): warning C4244: инициализация: преобразование "LONGLONG" в "double", возможна потеря данных
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\TestInt.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(36,30): error C2995: void NodeSequence<T>::addelem(T): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(22): message : см. объявление "NodeSequence<T>::addelem"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(55,30): error C2995: void NodeSequence<T>::deletelem(int): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(23): message : см. объявление "NodeSequence<T>::deletelem"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(95,30): error C2995: void NodeSequence<T>::swap_ind(T &,T &): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(24): message : см. объявление "NodeSequence<T>::swap_ind"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(103,30): error C2995: void NodeSequence<T>::swap(int,int): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(25): message : см. объявление "NodeSequence<T>::swap"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(124,17): error C2995: Node<T>::Node(Node<T> *): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(12): message : см. объявление "Node<T>::Node"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(132,17): error C2995: Node<T>::Node(void): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(13): message : см. объявление "Node<T>::Node"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(137,30): error C2995: void NodeSequence<T>::swapto(void): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(27): message : см. объявление "NodeSequence<T>::swapto"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(143,28): error C2995: T &NodeSequence<T>::operator [](int): шаблон функции уже определен
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(28): message : см. объявление "NodeSequence<T>::operator []"
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(157,34): error C2995: Node<T> *NodeSequence<T>::get(int) const: шаблон функции уже определен
+  NodeSequence.cpp
+  SortClass.cpp
+  Создание кода...
+C:\Users\1\source\repos\ConsoleApplication1\ConsoleApplication1\NodeSequence.h(26): message : см. объявление "NodeSequence<T>::get"
